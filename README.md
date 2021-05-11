@@ -1,3 +1,7 @@
+# This fork was created purely to overcome some blocking installation issues with Android, as the original repository is no longer maintained.
+
+---
+
 # VideoCapturePlus PhoneGap plugin
 
 > PR's are welcome, but I'm no longer actively maintaining this plugin.
